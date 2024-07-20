@@ -1,0 +1,15 @@
+#counter {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 7rem;
+    font-family: sans-serif;
+    text-align: center;
+}
+button {
+    font-size: 1.5rem;
+    color: black;
+    border-radius: 0.3rem;
+    padding: 0.5rem 1rem;
+}
